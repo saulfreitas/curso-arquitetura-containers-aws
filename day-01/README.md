@@ -1,5 +1,8 @@
 # Curso de Arquitetura de Containers na AWS - DAY 01 - VPC
 
-Modelo para implementação de uma infraestrutura de rede.
+Modelo de implementação de VPC's de alta disponibilidade para arquiteturas de containers.
 
-![Planejamento](/day-01/docs/Planejamento-rede.png)
+![Network](/day-01/docs/network.png)
+
+![Arquitetura](/day-01/docs/arquitetura.png)
+

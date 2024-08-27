@@ -7,7 +7,9 @@ Modelo de implementação de VPC's de alta disponibilidade para arquiteturas de 
 
 ![Arquitetura](/day-01/docs/arquitetura.png)
 
-## Comandos Terraform
+## Terraform
+
+Exemplo de utilização do `terraform` referenciando os arquivos `.tfvars`:
 
 ```sh
 # inicializar terraform

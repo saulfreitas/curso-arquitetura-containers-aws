@@ -1,4 +1,7 @@
 # DAY 02 - ECS + EC2
+# Exemplo de topologia inicial
+
+![Network](/day-02/docs/topologia.png)
 
 <!-- BEGIN_TF_DOCS -->
 

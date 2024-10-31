@@ -82,6 +82,3 @@ variable "capabilities" {
   type        = list(string)
   description = "Lista de capacidades especiais necessárias para o serviço, como 'SYS_ADMIN' para determinados privilégios de sistema."
 }
-
-
-
